@@ -1,0 +1,39 @@
+﻿@model sampraia.Models.Praias
+@{
+}
+
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/StyleSheet.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/telaInicial.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/sampraia.styles.css" asp-append-version="true" />
+
+<h1>@Model.Nome</h1>
+<img src="@Url.Content(Model.imagem)" class="imgPG" />
+
+<h5 class="descri">@Model.descricao</h5>
+<ul>
+    <li>
+        <div class="descricoes">
+            <h3>@Model.avaliacao </h3>
+            <img src="~/img/Joinha.png" class="descimg">
+        </div>
+    </li>
+</ul>
+<ul>
+    <li>
+        <div class="descricoes">
+            <h3>@Model.qualidadeagua</h3>
+            <img src="~/img/Maré.png" class="descimg">
+        </div>
+    </li>
+</ul>
+<ul>
+    <li>
+        <div class="descricoes">
+            <h3>@Model.contaminacao</h3>
+            <img src="~/img/Lixeira.png" class="descimg">
+        </div>
+    </li>
+</ul>
+
+

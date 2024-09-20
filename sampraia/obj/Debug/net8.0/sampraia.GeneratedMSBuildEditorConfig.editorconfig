@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = sampraia
+build_property.RootNamespace = sampraia
+build_property.ProjectDir = C:\Users\João\Downloads\Sampraia Asp Net\Sampraia Asp Net\sampraia\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\João\Downloads\Sampraia Asp Net\Sampraia Asp Net\sampraia
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/bertioga.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcYmVydGlvZ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Guaruja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcR3VhcnVqYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/IC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcSUMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Itanhaem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcSXRhbmhhZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Monguaga.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcTW9uZ3VhZ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Peruibe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcUGVydWliZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/praiagrande.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFccHJhaWFncmFuZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Santos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcU2FudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/SV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcU1YuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Praia/Ubatuba.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhaWFcVWJhdHViYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João/Downloads/Sampraia Asp Net/Sampraia Asp Net/sampraia/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rpfxxi7x4u

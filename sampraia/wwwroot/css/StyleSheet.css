@@ -1,0 +1,147 @@
+﻿body {
+    background-color: #B39255;
+}
+
+/*.hubI ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.hubI li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.Whatsapp {
+    margin-left: 80%;
+    margin-top: 1%
+}
+
+.mapa {
+    margin-left: 90%;
+    margin-top: 1%
+}
+
+.config {
+    margin-left: 100%;
+    margin-top: 1%;
+}*/
+#bimg {
+    position: absolute;
+   margin-left: 15%;
+    margin-top: 0.3%;
+}
+
+input {
+    width: 600px;
+    margin-left: 20%;
+    height: 67px;
+    position: absolute;
+    margin-top: 0.3%;
+    border-radius: 7px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 1px 1px 2px #333333;
+    -moz-box-shadow: 1px 1px 2px #333333;
+    -webkit-box-shadow: 1px 1px 2px #333333;
+    background: #cccccc;
+    border: 1px solid #000000;
+}
+.navbar {
+    background-color: #8D7241;
+    box-shadow: 0px 2px 5px black;
+}
+
+.praias button {
+    width: 300%;
+    background-color: #B39255;
+    margin-top: 1%;
+    margin-left: -100%;
+    text-align: left;
+}
+
+
+    .praias button:hover {
+        background-color: #d4b271;
+    }
+
+    .praias button h2 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 40px;
+    }
+    .praias li {
+        text-decoration: none;
+        display: inline;
+
+    }
+.Pimg {
+    margin-left: 63%;
+    margin-top: -3.8%;
+    border-radius: 10px;
+    width: 10%;
+    height: 120px;
+}
+
+
+.Iimg {
+    padding-right: 2%;
+    height: 5%;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+footer {
+    background-color: #8D7241;
+    text-align: center;
+}
+.praias {
+    flex-direction: column; 
+
+}
+
+.imgPG {
+    border-radius: 10px;
+    display: block; /* Faz a imagem ser um bloco */
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}
+
+.descri {
+    background-color: #8D7241;
+    border-radius: 10px;
+    display: block; 
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 60%;
+    height: 60%;
+}
+
+.descricoes {
+    margin-top: 25px;
+    background-color: #8D7241;
+    padding-top: 50px;
+    border-radius: 10px;
+
+}
+
+  .descricoes h3{
+      text-align:center;
+      margin-bottom: 
+  }
+  
+  .descimg{
+      position: absolute;
+      margin-top: -4%;
+      margin-left: 10px;
+  }
+
+.container {
+    justify-content: center;
+}

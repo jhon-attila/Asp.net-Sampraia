@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\ic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\ic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\ubatuba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\ubatuba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\guaruja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\guaruja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\sv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\sv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\monguaga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\monguaga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\peruibe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\peruibe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\itanhaem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\itanhaem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\bertioga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\bertioga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\praia\\praiagrande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\praia\\praiagrande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|c:\\users\\jo\u00E3o\\downloads\\sampraia asp net\\sampraia asp net\\sampraia\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D753EC8E-5457-4440-8F46-C7EE1D003A33}|sampraia\\sampraia.csproj|solutionrelative:sampraia\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IC.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\IC.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\IC.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\IC.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\IC.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:51:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Santos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Santos.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Santos.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Santos.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Santos.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:51:21.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ubatuba.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Ubatuba.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Ubatuba.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Ubatuba.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Ubatuba.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:50:57.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guaruja.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Guaruja.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Guaruja.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Guaruja.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Guaruja.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:50:31.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\SV.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\SV.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\SV.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\SV.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:50:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Monguaga.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Monguaga.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Monguaga.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Monguaga.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Monguaga.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:49:40.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Peruibe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Peruibe.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Peruibe.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Peruibe.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Peruibe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:45:15.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Itanhaem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Itanhaem.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\Itanhaem.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\Itanhaem.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\Itanhaem.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:44:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "sampraia\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "sampraia\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAIcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T03:03:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "sampraia\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T19:58:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PraiaController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Controllers\\PraiaController.cs",
+              "RelativeDocumentMoniker": "sampraia\\Controllers\\PraiaController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Controllers\\PraiaController.cs",
+              "RelativeToolTip": "sampraia\\Controllers\\PraiaController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwKoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:17:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "praiagrande.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\praiagrande.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\praiagrande.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\praiagrande.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\praiagrande.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T01:13:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bertioga.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\bertioga.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Praia\\bertioga.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Praia\\bertioga.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Praia\\bertioga.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T01:06:21.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sampraia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sampraia\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:59:53.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "telaInicial.css",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\wwwroot\\css\\telaInicial.css",
+              "RelativeDocumentMoniker": "sampraia\\wwwroot\\css\\telaInicial.css",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\wwwroot\\css\\telaInicial.css",
+              "RelativeToolTip": "sampraia\\wwwroot\\css\\telaInicial.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T23:10:59.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T19:31:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T19:30:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "sampraia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Sampraia Asp Net\\Sampraia Asp Net\\sampraia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "sampraia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T19:30:08.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
